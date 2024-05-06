@@ -1,1 +1,2 @@
 # german-phishing-domains
+This Github repository contains a list of domains that impersonate German companies and could be used for phishing attacks. The list is particularly relevant because due to geofencing, the domain may not be accessible outside of Germany. Anyone can help keep the list up to date by adding domains via a pull request. Please check before adding whether the domain is already in the list.
